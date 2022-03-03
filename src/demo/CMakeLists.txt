@@ -17,6 +17,7 @@ SET(DEMOS
 		DEMdemo_Collide
 		sphdemo
 		hello_world
+		runLength
 )
 
 # ------------------------------------------------------------------------------
